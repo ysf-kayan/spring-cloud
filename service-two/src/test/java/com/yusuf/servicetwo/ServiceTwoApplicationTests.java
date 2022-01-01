@@ -1,10 +1,10 @@
-package com.yusuf.serviceone;
+package com.yusuf.servicetwo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServiceOneApplicationTests {
+class ServiceTwoApplicationTests {
 
     @Test
     void contextLoads() {
